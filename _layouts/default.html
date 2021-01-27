@@ -13,7 +13,7 @@ layout: default
 		<aside class="sidebar wow">
 			<div class="scroll">
 				<header class="brand">
-					<a href="/" class="logo">
+					<a href="{{'/' | prepend: site.baseurl}}" class="logo">
 						{% include icons/logo.svg %}
 					</a>
 				</header>
@@ -34,7 +34,7 @@ layout: default
 			</div>
 			{%- endif -%}
 			{%- if page.cover -%}
-			<div class="cover wow" style="background-image: url(/assets/images/{{ page.cover }})">
+			<div class="cover wow" style="background-image: url({{ site.baseurl }}/assets/images/{{ page.cover }})">
 				{%- if page.description -%}
 				<h2>{{ page.description }}</h2>
 				{%- endif -%}

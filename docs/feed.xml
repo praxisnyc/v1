@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://praxis.nyc//feed.xml" rel="self" type="application/atom+xml" /><link href="https://praxis.nyc//" rel="alternate" type="text/html" /><updated>2020-12-30T12:42:24-05:00</updated><id>https://praxis.nyc//feed.xml</id><title type="html">praxis</title><subtitle>Decolonize your attention</subtitle><entry><title type="html">notes</title><link href="https://praxis.nyc//notes/" rel="alternate" type="text/html" title="notes" /><published>2020-12-29T00:00:00-05:00</published><updated>2020-12-29T00:00:00-05:00</updated><id>https://praxis.nyc//notes</id><content type="html" xml:base="https://praxis.nyc//notes/">https://www.notion.so/praxis-nyc-4e06f69ca3774e4b97fe6c7adff5cad3</content><author><name></name></author><summary type="html">https://www.notion.so/praxis-nyc-4e06f69ca3774e4b97fe6c7adff5cad3</summary></entry><entry><title type="html">enslavement</title><link href="https://praxis.nyc//study/enslavement/" rel="alternate" type="text/html" title="enslavement" /><published>2020-11-11T00:00:00-05:00</published><updated>2020-11-11T00:00:00-05:00</updated><id>https://praxis.nyc//study/enslavement</id><content type="html" xml:base="https://praxis.nyc//study/enslavement/">&lt;section class=&quot;wow&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://praxis.nyc//v1/feed.xml" rel="self" type="application/atom+xml" /><link href="https://praxis.nyc//v1/" rel="alternate" type="text/html" /><updated>2021-01-26T20:17:10-05:00</updated><id>https://praxis.nyc//v1/feed.xml</id><title type="html">praxis</title><subtitle>Decolonize your attention</subtitle><entry><title type="html">notes</title><link href="https://praxis.nyc//v1/notes/" rel="alternate" type="text/html" title="notes" /><published>2020-12-29T00:00:00-05:00</published><updated>2020-12-29T00:00:00-05:00</updated><id>https://praxis.nyc//v1/notes</id><content type="html" xml:base="https://praxis.nyc//v1/notes/">https://www.notion.so/praxis-nyc-4e06f69ca3774e4b97fe6c7adff5cad3</content><author><name></name></author><summary type="html">https://www.notion.so/praxis-nyc-4e06f69ca3774e4b97fe6c7adff5cad3</summary></entry><entry><title type="html">enslavement</title><link href="https://praxis.nyc//v1/study/enslavement/" rel="alternate" type="text/html" title="enslavement" /><published>2020-11-11T00:00:00-05:00</published><updated>2020-11-11T00:00:00-05:00</updated><id>https://praxis.nyc//v1/study/enslavement</id><content type="html" xml:base="https://praxis.nyc//v1/study/enslavement/">&lt;section class=&quot;wow&quot;&gt;
   &lt;div class=&quot;instructions wow&quot;&gt;
   &lt;section&gt;
     &lt;h3&gt;Rules:&lt;/h3&gt;
@@ -29,7 +29,7 @@
 &lt;li&gt;By David Graeber&lt;/li&gt;
 &lt;li&gt;Jan 16th 2021 - 2pm EST&lt;/li&gt;
 &lt;li&gt;chapter 6 - Games With Sex and Death&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://archive.org/details/DebtTheFirst5000Years&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://archive.org/details/DebtTheFirst5000Years&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/v1/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 
@@ -40,7 +40,7 @@
 &lt;li&gt;By Orlando Patterson&lt;/li&gt;
 &lt;li&gt;Jan 30 2021 - 2pm EST&lt;/li&gt;
 &lt;li&gt;Chapter 2 - Authority, Alienation, and Social Death&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://31.42.184.140/main/471000/d96054fc7c77041be50642853f36f849/Orlando%20Patterson%20-%20Slavery%20and%20Social%20Death_%20A%20Comparative%20Study%20%281985%29.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://31.42.184.140/main/471000/d96054fc7c77041be50642853f36f849/Orlando%20Patterson%20-%20Slavery%20and%20Social%20Death_%20A%20Comparative%20Study%20%281985%29.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/v1/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 
@@ -51,7 +51,7 @@
 &lt;li&gt;By Saidiya Hartman&lt;/li&gt;
 &lt;li&gt;Feb 13th 2021 - 2pm EST&lt;/li&gt;
 &lt;li&gt;Chapter 2 - Redressing the Pained Body: Toward a Theory of Practice&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/1/2391/files/2018/03/Race-and-American-Culture-Saidiya-V.-Hartman-Scenes-of-Subjection_-Terror-Slavery-and-Self-Making-in-Nineteenth-Century-America-1997-Oxford-University-Press-2h0let9.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cpb-us-w2.wpmucdn.com/campuspress.yale.edu/dist/1/2391/files/2018/03/Race-and-American-Culture-Saidiya-V.-Hartman-Scenes-of-Subjection_-Terror-Slavery-and-Self-Making-in-Nineteenth-Century-America-1997-Oxford-University-Press-2h0let9.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/v1/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 
@@ -62,7 +62,7 @@
 &lt;li&gt;By James C. Scott&lt;/li&gt;
 &lt;li&gt;Feb 27th 2021 - 2pm EST&lt;/li&gt;
 &lt;li&gt;Chapter 5 - Population Control: Bondage and War&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://astudygroup.files.wordpress.com/2018/01/against-the-grain_-a-deep-histo-james-c-scott.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://astudygroup.files.wordpress.com/2018/01/against-the-grain_-a-deep-histo-james-c-scott.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/v1/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/section&gt;
 
@@ -73,9 +73,9 @@
 &lt;li&gt;By Abdullah Öcalan&lt;/li&gt;
 &lt;li&gt;date TBD&lt;/li&gt;
 &lt;li&gt;chapter TBD&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://libcom.org/files/ManifestoforaDemocraticCivilizationvol1.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://libcom.org/files/ManifestoforaDemocraticCivilizationvol1.pdf&quot;&gt;Download PDF&lt;/a&gt; // &lt;a href=&quot;/v1/assets/events/enslavement.ics&quot;&gt;get calendar invite&lt;/a&gt; // &lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
-&lt;/section&gt; --&gt;</content><author><name></name></author><summary type="html">Rules: a book chapter or video will be announced to study before the meeting a place to discuss will be announced Enroll: install signal app text your name to 917-512-1486 via signal you’ll be added to the group Also: Free and open to all Safe space for queers and PoCs If you don’t study the assignment, please make space for those who do</summary></entry><entry><title type="html">rizoma</title><link href="https://praxis.nyc//rizoma/" rel="alternate" type="text/html" title="rizoma" /><published>2020-10-06T00:00:00-04:00</published><updated>2020-10-06T00:00:00-04:00</updated><id>https://praxis.nyc//rizoma</id><content type="html" xml:base="https://praxis.nyc//rizoma/">https://txai-consultoria.github.io/</content><author><name></name></author><summary type="html">https://txai-consultoria.github.io/</summary></entry><entry><title type="html">small room</title><link href="https://praxis.nyc//small-room/" rel="alternate" type="text/html" title="small room" /><published>2020-09-10T00:00:00-04:00</published><updated>2020-09-10T00:00:00-04:00</updated><id>https://praxis.nyc//small-room</id><content type="html" xml:base="https://praxis.nyc//small-room/">https://whereby.com/praxis_nyc</content><author><name></name></author><summary type="html">https://whereby.com/praxis_nyc</summary></entry><entry><title type="html">bureaucracy</title><link href="https://praxis.nyc//study/bureaucracy/" rel="alternate" type="text/html" title="bureaucracy" /><published>2020-07-06T03:03:16-04:00</published><updated>2020-07-06T03:03:16-04:00</updated><id>https://praxis.nyc//study/bureaucracy</id><content type="html" xml:base="https://praxis.nyc//study/bureaucracy/">&lt;section class=&quot;wow&quot;&gt;
+&lt;/section&gt; --&gt;</content><author><name></name></author><summary type="html">Rules: a book chapter or video will be announced to study before the meeting a place to discuss will be announced Enroll: install signal app text your name to 917-512-1486 via signal you’ll be added to the group Also: Free and open to all Safe space for queers and PoCs If you don’t study the assignment, please make space for those who do</summary></entry><entry><title type="html">rizoma</title><link href="https://praxis.nyc//v1/rizoma/" rel="alternate" type="text/html" title="rizoma" /><published>2020-10-06T00:00:00-04:00</published><updated>2020-10-06T00:00:00-04:00</updated><id>https://praxis.nyc//v1/rizoma</id><content type="html" xml:base="https://praxis.nyc//v1/rizoma/">https://txai-consultoria.github.io/</content><author><name></name></author><summary type="html">https://txai-consultoria.github.io/</summary></entry><entry><title type="html">small room</title><link href="https://praxis.nyc//v1/small-room/" rel="alternate" type="text/html" title="small room" /><published>2020-09-10T00:00:00-04:00</published><updated>2020-09-10T00:00:00-04:00</updated><id>https://praxis.nyc//v1/small-room</id><content type="html" xml:base="https://praxis.nyc//v1/small-room/">https://whereby.com/praxis_nyc</content><author><name></name></author><summary type="html">https://whereby.com/praxis_nyc</summary></entry><entry><title type="html">bureaucracy</title><link href="https://praxis.nyc//v1/study/bureaucracy/" rel="alternate" type="text/html" title="bureaucracy" /><published>2020-07-06T03:03:16-04:00</published><updated>2020-07-06T03:03:16-04:00</updated><id>https://praxis.nyc//v1/study/bureaucracy</id><content type="html" xml:base="https://praxis.nyc//v1/study/bureaucracy/">&lt;section class=&quot;wow&quot;&gt;
   &lt;h3&gt;Objective&lt;/h3&gt;
 &lt;p&gt;to break apart and understand functional tactics of bureaucracy to strenghten recognition and applicability of liberation strategies. &lt;/p&gt;
 &lt;/section&gt;
@@ -104,8 +104,8 @@
   &lt;ul class=&quot;syllabus&quot;&gt;
 &lt;li class=&quot;title&quot;&gt;the visible hand&lt;/li&gt;
 &lt;li class=&quot;meeting&quot;&gt;Thursday, August 6, 2020, 6-8PM EST &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;1. The Visible Hand: The Ascendancy of the Manager
    (Page 504 - 511 via absolute PDF pages or 490 - 497 via printed pages)&lt;/li&gt;
    &lt;li&gt;&lt;a href=&quot;https://dipiufabc.files.wordpress.com/2015/06/alfred_d-_chandler_the_visible_hand_managerial_bookzz-org.pdf&quot;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;
@@ -119,8 +119,8 @@
   &lt;ul class=&quot;syllabus&quot;&gt;
 &lt;li class=&quot;title&quot;&gt;anarchist cybernetics&lt;/li&gt;
 &lt;li class=&quot;meeting&quot;&gt;Thursday, August 20, 2020, 6-8PM EST &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;1. Anarchist Cybernetics 
    Chapter 2: Stafford Beer, Organisational Cybernetics and the Viable System Model
    (Pages 25 - 51)&lt;/li&gt;
@@ -133,8 +133,8 @@
   &lt;ul class=&quot;syllabus&quot;&gt;
 &lt;li class=&quot;title&quot;&gt;what is an assemblage?&lt;/li&gt;
 &lt;li class=&quot;meeting&quot;&gt;Thursday, September 10, 2020, 6-8PM EST &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
    &lt;li&gt;1. What is an Assemblage?&lt;/li&gt;
    &lt;li&gt;&lt;a href=&quot;https://www.academia.edu/31986514/What_is_an_Assemblage&quot;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
@@ -145,14 +145,14 @@
   &lt;ul class=&quot;syllabus&quot;&gt;
 &lt;li class=&quot;title&quot;&gt;legibility&lt;/li&gt;
 &lt;li class=&quot;meeting&quot;&gt;Thursday, October 1st, 2020, 6-8PM EST &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/assets/events/bureaucracy.ics&quot;&gt;get calendar invite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/v1/big-room&quot;&gt;visit room&lt;/a&gt;&lt;/li&gt;
        &lt;li&gt;Seeing Like a State, by James C. Scott&lt;/li&gt;
        &lt;li&gt;Chapter 3: Authoritarian High Modernism&lt;/li&gt;
    &lt;li&gt;&lt;a href=&quot;https://monoskop.org/images/9/9b/Scott_James_C_Seeing_Like_a_State_How_Certain_Schemes_to_Improve_the_Human_Condition_1998.pdf&quot;&gt;Download PDF&lt;/a&gt;&lt;/li&gt;
 
   &lt;/ul&gt;
-&lt;/section&gt;</content><author><name></name></author><summary type="html">Objective to break apart and understand functional tactics of bureaucracy to strenghten recognition and applicability of liberation strategies. Rules: a book chapter or video was announced to study before the meeting a place to discuss was announced Enroll: install signal app text your name to 917-512-1486 via signal you’ll be added to the group Also: Free and open to all Safe space for queers and PoCs If you don’t study the assignment, please make space for those who do</summary></entry><entry><title type="html">reveal js</title><link href="https://praxis.nyc//slide/demo/" rel="alternate" type="text/html" title="reveal js" /><published>2020-06-01T19:03:16-04:00</published><updated>2020-06-01T19:03:16-04:00</updated><id>https://praxis.nyc//slide/demo</id><content type="html" xml:base="https://praxis.nyc//slide/demo/">&lt;section&gt;
+&lt;/section&gt;</content><author><name></name></author><summary type="html">Objective to break apart and understand functional tactics of bureaucracy to strenghten recognition and applicability of liberation strategies. Rules: a book chapter or video was announced to study before the meeting a place to discuss was announced Enroll: install signal app text your name to 917-512-1486 via signal you’ll be added to the group Also: Free and open to all Safe space for queers and PoCs If you don’t study the assignment, please make space for those who do</summary></entry><entry><title type="html">reveal js</title><link href="https://praxis.nyc//v1/slide/demo/" rel="alternate" type="text/html" title="reveal js" /><published>2020-06-01T19:03:16-04:00</published><updated>2020-06-01T19:03:16-04:00</updated><id>https://praxis.nyc//v1/slide/demo</id><content type="html" xml:base="https://praxis.nyc//v1/slide/demo/">&lt;section&gt;
 					&lt;a href=&quot;https://revealjs.com&quot;&gt;
 						&lt;img src=&quot;https://static.slid.es/reveal/logo-v1/reveal-white-text.svg&quot; alt=&quot;reveal.js logo&quot; style=&quot;height: 180px; margin: 0 auto 4rem auto; background: transparent;&quot; class=&quot;demo-logo&quot;&gt;
 					&lt;/a&gt;
@@ -556,7 +556,7 @@ Reveal.on( 'customevent', function() {
 						- &lt;a href=&quot;https://slides.com&quot;&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
 						- &lt;a href=&quot;https://github.com/hakimel/reveal.js&quot;&gt;Source code &amp;amp; documentation&lt;/a&gt;
 					&lt;/p&gt;
-				&lt;/section&gt;</content><author><name></name></author><summary type="html">The HTML Presentation Framework Created by Hakim El Hattab and contributors</summary></entry><entry><title type="html">Mesa</title><link href="https://praxis.nyc//slide/mesa/" rel="alternate" type="text/html" title="Mesa" /><published>2020-06-01T19:03:16-04:00</published><updated>2020-06-01T19:03:16-04:00</updated><id>https://praxis.nyc//slide/mesa</id><content type="html" xml:base="https://praxis.nyc//slide/mesa/">&lt;section data-markdown=&quot;&quot;&gt;
+				&lt;/section&gt;</content><author><name></name></author><summary type="html">The HTML Presentation Framework Created by Hakim El Hattab and contributors</summary></entry><entry><title type="html">Mesa</title><link href="https://praxis.nyc//v1/slide/mesa/" rel="alternate" type="text/html" title="Mesa" /><published>2020-06-01T19:03:16-04:00</published><updated>2020-06-01T19:03:16-04:00</updated><id>https://praxis.nyc//v1/slide/mesa</id><content type="html" xml:base="https://praxis.nyc//v1/slide/mesa/">&lt;section data-markdown=&quot;&quot;&gt;
 ## What it is
 
 - Augmented Table
@@ -623,7 +623,7 @@ We learn by mimicking
 
 - Zero-Knowledge
 - Offline-first
-&lt;/section&gt;</content><author><name></name></author><summary type="html">## What it is</summary></entry><entry><title type="html">✨wish</title><link href="https://praxis.nyc//slide/wish/" rel="alternate" type="text/html" title="✨wish" /><published>2020-06-01T19:03:16-04:00</published><updated>2020-06-01T19:03:16-04:00</updated><id>https://praxis.nyc//slide/wish</id><content type="html" xml:base="https://praxis.nyc//slide/wish/">&lt;section class=&quot;cover&quot;&gt;
+&lt;/section&gt;</content><author><name></name></author><summary type="html">## What it is</summary></entry><entry><title type="html">✨wish</title><link href="https://praxis.nyc//v1/slide/wish/" rel="alternate" type="text/html" title="✨wish" /><published>2020-06-01T19:03:16-04:00</published><updated>2020-06-01T19:03:16-04:00</updated><id>https://praxis.nyc//v1/slide/wish</id><content type="html" xml:base="https://praxis.nyc//v1/slide/wish/">&lt;section class=&quot;cover&quot;&gt;
 				&lt;h1&gt;✨wish&lt;/h1&gt;
 				&lt;h2  class=&quot;fragment&quot;&gt;mutual aid micro-volunteering&lt;/h2&gt;
 				&lt;h3 class=&quot;collab fragment&quot;&gt;A &lt;a href=&quot;https://praxis.nyc&quot; target=&quot;_blank&quot;&gt;&lt;svg width=&quot;131&quot; height=&quot;131&quot; viewBox=&quot;0 0 131 131&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;
@@ -1298,4 +1298,4 @@ We learn by mimicking
 		&lt;p&gt;after transaction, both Jenn and Margo answer how it went.&lt;/p&gt;
 		&lt;p&gt;✨wish is then forgotten, along with location and conversation.&lt;/p&gt;
 &lt;/section&gt;
-&lt;/section&gt; --&gt;</content><author><name></name></author><summary type="html">✨wish mutual aid micro-volunteering A and collaboration What it is facilitates #needs and #offers in a community taxonomy is defined bottom-up by #tags regions are defined bottom-up by geofencing User stories 1. #compost 2. #leftoversIncomplete 3. #poetryPending</summary></entry><entry><title type="html">big room</title><link href="https://praxis.nyc//big-room/" rel="alternate" type="text/html" title="big room" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://praxis.nyc//big-room</id><content type="html" xml:base="https://praxis.nyc//big-room/">https://meet.jit.si/praxis</content><author><name></name></author><summary type="html">https://meet.jit.si/praxis</summary></entry><entry><title type="html">online</title><link href="https://praxis.nyc//online/" rel="alternate" type="text/html" title="online" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://praxis.nyc//online</id><content type="html" xml:base="https://praxis.nyc//online/">https://meet.jit.si/praxis</content><author><name></name></author><summary type="html">https://meet.jit.si/praxis</summary></entry></feed>
+&lt;/section&gt; --&gt;</content><author><name></name></author><summary type="html">✨wish mutual aid micro-volunteering A and collaboration What it is facilitates #needs and #offers in a community taxonomy is defined bottom-up by #tags regions are defined bottom-up by geofencing User stories 1. #compost 2. #leftoversIncomplete 3. #poetryPending</summary></entry><entry><title type="html">big room</title><link href="https://praxis.nyc//v1/big-room/" rel="alternate" type="text/html" title="big room" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://praxis.nyc//v1/big-room</id><content type="html" xml:base="https://praxis.nyc//v1/big-room/">https://meet.jit.si/praxis</content><author><name></name></author><summary type="html">https://meet.jit.si/praxis</summary></entry><entry><title type="html">online</title><link href="https://praxis.nyc//v1/online/" rel="alternate" type="text/html" title="online" /><published>2020-01-29T18:03:16-05:00</published><updated>2020-01-29T18:03:16-05:00</updated><id>https://praxis.nyc//v1/online</id><content type="html" xml:base="https://praxis.nyc//v1/online/">https://meet.jit.si/praxis</content><author><name></name></author><summary type="html">https://meet.jit.si/praxis</summary></entry></feed>
